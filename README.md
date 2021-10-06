@@ -1,0 +1,1 @@
+# aks-vmss-systemassigned-identity
